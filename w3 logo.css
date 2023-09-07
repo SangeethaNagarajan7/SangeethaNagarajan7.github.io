@@ -1,0 +1,53 @@
+body{
+    height: 120vh;
+    width: 110%;
+    background: linear-gradient(pink,purple)
+}
+.wh{
+    border-radius: 20px;
+    position: relative;
+    left: 350px;
+    height: 700px;
+    width:600px ;
+    background-color: white;
+}
+form{
+    
+    position: relative;
+    top: 25%;
+    left: 30%;
+    
+    border-radius: 10px;
+    height: 550px;
+    width: 350px;
+    background-color: black;
+    
+    
+}
+h1{
+    padding-top: 30px;
+    padding-left: 20px;
+    color: bisque;
+}
+
+button{
+    position: relative;
+    padding-top: 10px;
+    top: 58%;
+    height: 60px;
+    width: 353px;
+    background-color: green;
+    border-radius: 10%;
+    font-size: x-large;
+    
+    color: aliceblue;
+    
+
+}
+img{
+    border-radius: 50%;
+    position:relative;
+    
+    left: 20%;
+    
+}
